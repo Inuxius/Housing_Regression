@@ -12,4 +12,4 @@ Some Kernels which are great to get started with are.
 
 3.[Regularized Linear Models](https://www.kaggle.com/apapiu/regularized-linear-models) by Alexandru Papiu 
 
-Do make utmost use of kaggle its a fun and brilliant way to learn Data Science.
+Do make utmost use of kaggle its a fun and brilliant place to learn Data Science.
